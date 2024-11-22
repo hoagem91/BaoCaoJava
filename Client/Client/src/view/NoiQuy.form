@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane2" alignment="0" pref="713" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane2" alignment="0" pref="482" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="20" style="0"/>
+            </Property>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="           &#x110;&#x1ed9;c gi&#x1ea3; mu&#x1ed1;n s&#x1eed; d&#x1ee5;ng h&#x1ec7; th&#x1ed1;ng th&#xec; ph&#x1ea3;i c&#xf3; t&#xe0;i kho&#x1ea3;n &#x111;&#x1ec3; &#x111;&#x103;ng nh&#x1ead;p, n&#x1ebf;u kh&#xf4;ng c&#xf3; th&#xec; &#x111;&#x1ed9;c gi&#x1ea3; c&#xf3; th&#x1ec3; t&#x1ef1; &#x111;&#x103;ng k&#xfd; t&#xe0;i kho&#x1ea3;n cho ri&#xea;ng m&#xec;nh.&#xa;           &#x110;&#x1ed9;c gi&#x1ea3;(sinh vi&#xea;n) s&#x1ebd; d&#xf9;ng m&#xe3; sinh vi&#xea;n c&#x1ee7;a m&#xec;nh &#x111;&#x1ec3; l&#xe0;m t&#xea;n &#x111;&#x103;ng nh&#x1ead;p.&#xa;           M&#x1ed7;i l&#x1ea7;n m&#x1b0;&#x1ee3;n t&#xe0;i li&#x1ec7;u, &#x111;&#x1ed9;c gi&#x1ea3; ch&#x1ec9; &#x111;&#x1b0;&#x1ee3;c m&#x1b0;&#x1ee3;n kh&#xf4;ng qu&#xe1; 3 t&#xe0;i li&#x1ec7;u, th&#x1edd;i gian m&#x1b0;&#x1ee3;n trong v&#xf2;ng 14 ng&#xe0;y. N&#x1ebf;u v&#x1b0;&#x1ee3;t qu&#xe1; th&#x1edd;i gian tr&#xea;n, &#x111;&#x1ed9;c gi&#x1ea3; s&#x1ebd; ph&#x1ea3;i ch&#x1ecb;u ph&#x1ea1;t 10.000&#x111;/1 ng&#xe0;y tr&#x1ea3; tr&#x1ec5; h&#x1eb9;n.&#xa;           N&#x1ebf;u v&#xec; m&#x1ed9;t l&#xfd; do n&#xe0;o &#x111;&#xf3; &#x111;&#x1ebf;n ng&#xe0;y tr&#x1ea3; t&#xe0;i li&#x1ec7;u l&#x1ea1;i cho th&#x1b0; vi&#x1ec7;n m&#xe0; &#x111;&#x1ed9;c gi&#x1ea3; ch&#x1b0;a th&#x1ec3; tr&#x1ea3; l&#x1ea1;i th&#xec; c&#xf3; th&#x1ec3; th&#x1ef1;c hi&#x1ec7;n gia h&#x1ea1;n th&#xea;m th&#x1edd;i gian nh&#x1b0;ng ch&#x1ec9; &#x111;&#x1b0;&#x1ee3;c 1 l&#x1ea7;n duy nh&#x1ea5;t, t&#x1b0;&#x1a1;ng &#x1ee9;ng v&#x1edb;i 7 ng&#xe0;y.&#xa;            N&#x1ebf;u l&#xe0;m h&#x1b0; h&#x1ecf;ng t&#xe0;i li&#x1ec7;u, th&#xec; tu&#x1ef3; theo m&#x1ee9;c &#x111;&#x1ed9; h&#x1b0; h&#x1ea1;i v&#xe0; gi&#xe1; t&#xe0;i li&#x1ec7;u m&#xe0; th&#x1b0; vi&#x1ec7;n s&#x1ebd; &#x111;&#x1b0;a ra m&#x1ee9;c ph&#x1ea1;t ti&#x1ec1;n ph&#xf9; h&#x1ee3;p v&#x1edb;i &#x111;&#x1ed9;c gi&#x1ea3;.&#xa;            N&#x1ebf;u l&#xe0;m m&#x1ea5;t t&#xe0;i li&#x1ec7;u &#x111;&#xe3; m&#x1b0;&#x1ee3;n, &#x111;&#x1ed9;c gi&#x1ea3; s&#x1ebd; ph&#x1ea3;i c&#xf3; tr&#xe1;ch nhi&#x1ec7;m mua m&#x1edb;i l&#x1ea1;i ho&#x1eb7;c &#x111;&#x1ec1;n b&#xf9; s&#x1ed1; ti&#x1ec1;n b&#x1eb1;ng v&#x1edb;i gi&#xe1; c&#x1ee7;a t&#xe0;i li&#x1ec7;u.&#xa;            N&#x1ebf;u vi ph&#x1ea1;m c&#xe1;c quy &#x111;&#x1ecb;nh c&#x1ee7;a th&#x1b0; vi&#x1ec7;n, &#x111;&#x1ed9;c gi&#x1ea3; c&#xf3; th&#x1ec3; b&#x1ecb; kho&#xe1; t&#xe0;i kho&#x1ea3;n, khi &#x111;&#xf3; s&#x1ebd; kh&#xf4;ng th&#x1ec3; &#x111;&#x103;ng nh&#x1ead;p &#x111;&#x1b0;&#x1ee3;c v&#xe0;o h&#x1ec7; th&#x1ed1;ng.&#xa;           &#x110;&#x1ed9;c gi&#x1ea3; ch&#x1ec9; c&#xf3; th&#x1ec3; m&#x1b0;&#x1ee3;n ti&#x1ebf;p t&#xe0;i li&#x1ec7;u t&#x1eeb; th&#x1b0; vi&#x1ec7;n khi &#x111;&#xe3; tr&#x1ea3; h&#x1ebf;t t&#xe0;i li&#x1ec7;u t&#x1eeb; l&#x1ea7;n m&#x1b0;&#x1ee3;n tr&#x1b0;&#x1edb;c &#x111;&#xf3;&#xa;"/>
+            <Property name="wrapStyleWord" type="boolean" value="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
